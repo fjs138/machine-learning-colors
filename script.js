@@ -42,6 +42,8 @@ blackButton.addEventListener('click',()=>{
   chooseColor(0)
 })
 
+printButton.addEventListener('click', print)
+
 function chooseColor(value){
   data.push({
     input: color,
@@ -50,12 +52,22 @@ function chooseColor(value){
   setRandomColor()
 }
 
+function print(){
+console.log(JSON.stringify(data))
+}
+
 function setRandomColor() {
    color = {
     r: Math.random(),
     g: Math.random(),
     b: Math.random(),
   }
+
+  const guess = net.run(color)[0]
+
+  // if the guess is closer to 1, then #fff which is white otherwise set it to black
+  guessEle.style.color= guess > .5 ? '#FFF' : '#000'
+
   colorEle.style.backgroundColor=
       // multiply the random number that's between 0 and 1 by 255
       `rgba( 

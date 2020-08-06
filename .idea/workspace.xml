@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583b6ecd-4e8e-4ddf-bfd4-7ff0e75051bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xor-test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xor-test/script.js" afterDir="false" />
+    <list default="true" id="583b6ecd-4e8e-4ddf-bfd4-7ff0e75051bd" name="Default Changelist" comment="setting up training">
+      <change afterPath="$PROJECT_DIR$/color-ai.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +74,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/xor-test" />
     </key>
   </component>
@@ -89,8 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -103,8 +101,17 @@
       <option name="presentableId" value="Default" />
       <updated>1596505294423</updated>
       <workItem from="1596505295615" duration="1361000" />
-      <workItem from="1596506669066" duration="5469000" />
+      <workItem from="1596506669066" duration="7978000" />
+      <workItem from="1596674942465" duration="262000" />
     </task>
+    <task id="LOCAL-00001" summary="setting up training">
+      <created>1596670910986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596670910987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,15 +127,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="setting up training" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting up training" />
   </component>
   <component name="WindowStateProjectService">
     <state x="791" y="328" key="#Usage_Scope" timestamp="1596506408868">
       <screen x="0" y="23" width="1536" height="887" />
     </state>
     <state x="791" y="328" key="#Usage_Scope/0.23.1536.887@0.23.1536.887" timestamp="1596506408868" />
+    <state x="338" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596675903881">
+      <screen x="0" y="23" width="1536" height="887" />
+    </state>
+    <state x="338" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.887@0.23.1536.887" timestamp="1596675903881" />
     <state x="732" y="253" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1596506423248">
       <screen x="0" y="23" width="1536" height="887" />
     </state>
@@ -145,5 +159,9 @@
       <screen x="0" y="23" width="1536" height="887" />
     </state>
     <state x="37" y="188" key="SettingsEditor/0.23.1536.887@0.23.1536.887" timestamp="1596669881933" />
+    <state x="594" y="206" key="Vcs.Push.Dialog.v2" timestamp="1596670913019">
+      <screen x="0" y="23" width="1536" height="887" />
+    </state>
+    <state x="594" y="206" key="Vcs.Push.Dialog.v2/0.23.1536.887@0.23.1536.887" timestamp="1596670913019" />
   </component>
 </project>
