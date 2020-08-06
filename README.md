@@ -37,18 +37,9 @@ The color of the text will be either white or black, depending on what the AI th
 | xor-test/		 			| preliminary ai testing    |
 
 
-
+## Demo
 
 ![Color AI Training screenshot](https://github.com/fjs138/machine-learning-colors/color-ai.gif)
-
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ## License
 MIT License
