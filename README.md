@@ -39,12 +39,12 @@ The color of the text will be either white or black, depending on what the AI th
 
 ## Demo
 
-![Color AI Training screenshot](https://github.com/fjs138/machine-learning-colors/color-ai.gif)
+![Color AI Training screenshot](color-ai.gif)
 
 ## License
 MIT License
 
-Copyright (c) 2015 Frank Santaguida
+Copyright (c) 2020 Frank Santaguida
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
