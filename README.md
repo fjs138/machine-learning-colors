@@ -13,7 +13,7 @@ Use an AI library to make predictions for what color text to use, given the back
 
 | Technology    	| Use           	  | Description     										  |
 | :------------------|:-------------------| :----------------										  |
-| BrainJS 			| AI     | PU accelerated Neural Networks in JavaScript, for Browsers and Node.js.
+| BrainJS 			| AI     | GPU accelerated Neural Networks in JavaScript, for Browsers and Node.js.
 
 
 ## Project Specifications
