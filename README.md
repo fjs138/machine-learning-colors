@@ -1,8 +1,3 @@
-using ai meta library brainjs to build a machine learning model
-
-
-brainjs: GPU accelerated Neural Networks in JavaScript, for Browsers and Node.js.
-
 ## Machine Learning - Colors
 
 ## The Goal
